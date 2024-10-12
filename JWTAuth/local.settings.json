@@ -1,0 +1,7 @@
+﻿{
+  "IsEncrypted": false,
+  "Values": {},
+  "ConnectionStrings": {
+    "SqlConnectionString": "YOUR_CONNECTION_STRING"
+  }
+}
